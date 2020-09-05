@@ -53,3 +53,7 @@ Google cloud platform completed lab
 ### Working with Virtual Machines
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Working%20with%20Virtual%20Machines.png" />
+
+### Cloud IAM
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Cloud%20IAM.png" />
