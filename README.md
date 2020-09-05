@@ -1,5 +1,6 @@
 # GCP <img src="https://github.com/lordgape/GCP/blob/master/img/gcplogo.png" />
-This project contains the following for google cloud challenge for the year 2020.
+This project contains the following for google cloud challenge year 2020
+
 
 ##### Screenshot to proof Google cloud platform labs were completed. 
 
@@ -10,6 +11,9 @@ This project contains the following for google cloud challenge for the year 2020
 - Click <a href="https://github.com/lordgape/GCP/blob/master/transalation/translationOne.md">Translation one </a> for Getting Started with Compute Engine translation
 
 - Click <a href="https://github.com/lordgape/GCP/blob/master/transalation/translationTwo.md">Translation two </a> for Storage in the Cloud
+
+
+Chesvic lordgape &copy; 2020
 
 
 
