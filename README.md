@@ -33,3 +33,7 @@ Google cloud platform completed lab
 ### Console and Cloud Shell
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Console%20and%20Cloud%20Shell.png" />
+
+### Infrastructure Preview
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Infrastructure%20Preview.png" />
