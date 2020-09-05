@@ -115,4 +115,4 @@ In this lab, you will learn how to perform the following tasks:
 #### Congratulations!
 In this lab, you created virtual machine (VM) instances in two different zones and connected to them using ping, ssh, and HTTP.
 
-Chesvic Hillary &copy; 2020
+<em> Chesvic Hillary &copy; 2020 </em>
