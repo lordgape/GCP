@@ -1,7 +1,7 @@
 # GCP
 This project contains the following google cloud challenge for the year 2020.
 
-- Google cloud platform completed lab
+- Screenshot to proof Google cloud platform lab were completed.
 - Transalated labs from Console instructions to 100% command line instructions.
 
 
