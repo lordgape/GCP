@@ -1,2 +1,7 @@
 # GCP
-Google cloud platform practice lab
+Google cloud platform completed lab
+
+### GCP Fundamentals: Getting Started with Cloud Marketplace
+
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/GCP%20Fundamentals:%20Getting%20Started%20with%20Cloud%20Marketplace.png" />
