@@ -29,3 +29,7 @@ Google cloud platform completed lab
 ### GCP Fundamentals: Getting Started with BigQuery
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/GCP%20Fundamentals:%20Getting%20Started%20with%20BigQuery.png" />
+
+### Console and Cloud Shell
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Console%20and%20Cloud%20Shell.png" />
