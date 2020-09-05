@@ -49,3 +49,7 @@ Google cloud platform completed lab
 ### Creating Virtual Machines
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Creating%20Virtual%20Machines.png" />
+
+### Working with Virtual Machines
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Working%20with%20Virtual%20Machines.png" />
