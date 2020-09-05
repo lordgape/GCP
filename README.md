@@ -1,5 +1,5 @@
 # GCP <img src="https://github.com/lordgape/GCP/blob/master/img/gcplogo.png" />
-This project contains the following google cloud challenge for the year 2020.
+This project contains the following for google cloud challenge for the year 2020.
 
 ##### Screenshot to proof Google cloud platform labs were completed. 
 
