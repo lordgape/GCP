@@ -1,4 +1,6 @@
-# Objectives
+# Getting Started with Compute Engine <img src="https://github.com/lordgape/GCP/blob/master/img/sameregion.png" />
+
+### Objectives 
 In this lab, you will learn how to perform the following tasks:
 
 - Create two Compute Engine virtual machines using the gcloud command-line interface.
