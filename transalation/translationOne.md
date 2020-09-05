@@ -85,7 +85,7 @@ In this lab, you will learn how to perform the following tasks:
 
         sudo nano /var/www/html/index.nginx-debian.html
 
-     Use the arrow keys to move the cursor to the line just below the h1 header. Add text like this, and replace ```YOUR_NAME``` with your name:
+- Use the arrow keys to move the cursor to the line just below the h1 header. Add text like this, and replace ```YOUR_NAME``` with your name:
 <br/>
 
         Hi from YOUR_NAME
