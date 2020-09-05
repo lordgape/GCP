@@ -13,7 +13,7 @@ This project contains the following for google cloud challenge year 2020
 - Click <a href="https://github.com/lordgape/GCP/blob/master/transalation/translationTwo.md">Translation two </a> for Storage in the Cloud
 
 
-Chesvic lordgape &copy; 2020
+Chesvic Hillary &copy; 2020
 
 
 
