@@ -37,3 +37,7 @@ Google cloud platform completed lab
 ### Infrastructure Preview
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Infrastructure%20Preview.png" />
+
+### VPC Networking
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/VPC%20Networking.png" />
