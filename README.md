@@ -6,7 +6,7 @@ This project contains the following for google cloud challenge year 2020
 
 - Click <a href="https://github.com/lordgape/GCP/blob/master/labs/Screenshot.md" >See Screenshot </a> 
 
-##### Transalated labs from Console instructions to 100% command line instructions.
+##### Transalated labs from console instructions to 100% command line instructions.
 
 - Click <a href="https://github.com/lordgape/GCP/blob/master/transalation/translationOne.md">Translation one </a> for Getting Started with Compute Engine translation
 
