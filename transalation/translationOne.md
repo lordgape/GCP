@@ -89,8 +89,9 @@ In this lab, you will learn how to perform the following tasks:
 <br/>
 
         Hi from YOUR_NAME
-
+    
     Press Ctrl+O and then press Enter to save your edited file, and then press Ctrl+X to exit the nano text editor.
+
 <br/>
 
 - Confirm that the web server is serving your new page. At the command prompt on ```my-vm-1```  , execute this command:
