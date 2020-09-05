@@ -61,3 +61,7 @@ Google cloud platform completed lab
 ### Implementing Cloud SQL
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Implementing%20Cloud%20SQL.png" />
+
+### Examining Billing data with BigQuery
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Examining%20Billing%20data%20with%20BigQuery.png" />
