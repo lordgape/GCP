@@ -65,3 +65,7 @@ Google cloud platform completed lab
 ### Examining Billing data with BigQuery
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Examining%20Billing%20data%20with%20BigQuery.png" />
+
+### Resource Monitoring
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Resource%20Monitoring.png" />
