@@ -109,3 +109,6 @@ In this lab, you will learn how to perform the following tasks:
         curl http://my-vm-1/
 
     The response will again be the HTML source of the web server's home page, including your line of custom text.
+
+#### Congratulations!
+In this lab, you created virtual machine (VM) instances in two different zones and connected to them using ping, ssh, and HTTP.
