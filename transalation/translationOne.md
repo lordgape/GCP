@@ -19,7 +19,7 @@ In this lab, you will learn how to perform the following tasks:
 
         gcloud config set compute/zone us-central1-a
 
-     <br/>
+   <br/>
 
         gcloud compute instances create "my-vm-1" \ 
         --machine-type "n1-standard-1" \
@@ -27,7 +27,7 @@ In this lab, you will learn how to perform the following tasks:
         --image "debian-9-stretch-v20190213" \ 
         --subnet "default" --tags "http" 
 
-    <br/>
+   <br/>
 
             gcloud compute firewall-rules \
             create allow-http --action=ALLOW \ 
@@ -39,7 +39,7 @@ In this lab, you will learn how to perform the following tasks:
 
 
         gcloud config set compute/zone us-central1-b
-    <br/>
+   <br/>
 
         gcloud compute instances create "my-vm-2" \ 
         --machine-type "n1-standard-1" \
