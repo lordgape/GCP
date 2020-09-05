@@ -41,3 +41,7 @@ Google cloud platform completed lab
 ### VPC Networking
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/VPC%20Networking.png" />
+
+### Implement Private Google Access and Cloud NAT
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Implement%20Private%20Google%20Access%20and%20Cloud%20NAT.png" />
