@@ -7,7 +7,7 @@ This project contains the following google cloud challenge for the year 2020.
 
 ##### Transalated labs from Console instructions to 100% command line instructions.
 
-- Click <a href="">Translation one </a> for Getting Started with Compute Engine translation
+- Click <a href="https://github.com/lordgape/GCP/blob/master/transalation/translationOne.md">Translation one </a> for Getting Started with Compute Engine translation
 
 - Click <a href="">Translation two </a> for Storage in the Cloud
 
