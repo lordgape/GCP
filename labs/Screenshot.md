@@ -1,4 +1,4 @@
-##Screenshot to proof Google cloud platform labs were completed.
+## Screenshot to proof Google cloud platform labs were completed.
 
 ### GCP Fundamentals: Getting Started with Cloud Marketplace
 
