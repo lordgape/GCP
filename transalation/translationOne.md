@@ -90,7 +90,7 @@ In this lab, you will learn how to perform the following tasks:
 
         Hi from YOUR_NAME
     
-    Press Ctrl+O and then press Enter to save your edited file, and then press Ctrl+X to exit the nano text editor.
+   Press Ctrl+O and then press Enter to save your edited file, and then press Ctrl+X to exit the nano text editor.
 
 <br/>
 
