@@ -1,5 +1,11 @@
 # GCP
-Google cloud platform completed lab
+This project contains the following google cloud challenge for the year 2020.
+
+- Google cloud platform completed lab
+- Transalated labs from Console instructions to 100% command line instructions.
+
+
+
 
 ### GCP Fundamentals: Getting Started with Cloud Marketplace
 
