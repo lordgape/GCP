@@ -45,3 +45,7 @@ Google cloud platform completed lab
 ### Implement Private Google Access and Cloud NAT
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Implement%20Private%20Google%20Access%20and%20Cloud%20NAT.png" />
+
+### Creating Virtual Machines
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Creating%20Virtual%20Machines.png" />
