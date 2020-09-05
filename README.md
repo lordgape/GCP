@@ -57,3 +57,7 @@ Google cloud platform completed lab
 ### Cloud IAM
 
 <img src="https://github.com/lordgape/GCP/blob/master/labs/images/Cloud%20IAM.png" />
+
+### Implementing Cloud SQL
+
+<img src="https://github.com/lordgape/GCP/blob/master/labs/images/Implementing%20Cloud%20SQL.png" />
