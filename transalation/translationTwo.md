@@ -93,9 +93,8 @@ However, you can disable the application, which causes it to no longer be access
             instances: 1
   
 2. Create a dummy ```index.html``` with content
-<br>
-        
-            <title>CLOSED</title>
+
+		<title>CLOSED</title>
     
 3. Identfy and get app version
 
